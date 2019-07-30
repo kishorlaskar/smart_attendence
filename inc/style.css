@@ -1,0 +1,27 @@
+.panel-default > .panel-heading {
+    color: #fcf8e3;
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
+.panel-default {
+    border-color: #337ab7;
+}
+
+.panel-heading{
+    height: 44px;
+}
+.panel-heading h4{
+    margin-top: 3px;
+}
+
+.navbar-inverse {
+    color: black;
+    background-color: #ccb9b9;
+    border-color: #ccb9b9;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: black;
+
+}
+
